@@ -1,1 +1,1 @@
-# V1
+"SortViz Symphony" is an interactive sorting visualizer project using SFML library, combining sorting algorithms with vibrant colors to create a captivating experience. Watch the animated bars move in real-time, resembling a symphony, while demonstrating Bubble Sort's efficiency
